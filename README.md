@@ -1,4 +1,4 @@
-# >Email validator
+# Email validator
 
 ## Introduction
 
