@@ -12,6 +12,4 @@
 
 > make sure to import System.ComponentModel.DataAnnotations
 
-(require 'insert-time)
-
-[<img src="https://pubads.g.doubleclick.net/gampad/ad?iu=/6839/lqm.codeplex.site/c-languagetranslator&sz=728x90&c=111">](https://pubads.g.doubleclick.net/gampad/jump?iu=/6839/lqm.codeplex.site/c-languagetranslator&sz=728x90&c=111)
+<a href="https://pubads.g.doubleclick.net/gampad/jump?iu=/6839/lqm.codeplex.site/c-languagetranslator&sz=728x90&c=111" rel="some text">![Foo](https://pubads.g.doubleclick.net/gampad/ad?iu=/6839/lqm.codeplex.site/c-languagetranslator&sz=728x90&c=111)]</a>
