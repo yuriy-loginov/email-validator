@@ -14,4 +14,4 @@
 
 (require 'insert-time)
 
-[![Foo](https://pubads.g.doubleclick.net/gampad/ad?iu=/6839/lqm.codeplex.site/c-languagetranslator&sz=728x90&c=111)](https://pubads.g.doubleclick.net/gampad/jump?iu=/6839/lqm.codeplex.site/c-languagetranslator&sz=728x90&c=111)
+[<img src="https://pubads.g.doubleclick.net/gampad/ad?iu=/6839/lqm.codeplex.site/c-languagetranslator&sz=728x90&c=111">](https://pubads.g.doubleclick.net/gampad/jump?iu=/6839/lqm.codeplex.site/c-languagetranslator&sz=728x90&c=111)
