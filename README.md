@@ -12,4 +12,8 @@
 
 > make sure to import System.ComponentModel.DataAnnotations
 
-<a href="https://pubads.g.doubleclick.net/gampad/jump?iu=/6839/lqm.codeplex.site/c-languagetranslator&sz=728x90&c=111" rel="some text">![Foo](https://pubads.g.doubleclick.net/gampad/ad?iu=/6839/lqm.codeplex.site/c-languagetranslator&sz=728x90&c=111)]</a>
+<div markdown="1">
+<a href='https://pubads.g.doubleclick.net/gampad/jump?iu=/6839/lqm.codeplex.site/c-languagetranslator&sz=728x90&c=1'>
+  <img src='https://pubads.g.doubleclick.net/gampad/ad?iu=/6839/lqm.codeplex.site/c-languagetranslator&sz=728x90&c=1'/>
+</a>
+</div>
