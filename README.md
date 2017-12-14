@@ -12,4 +12,4 @@
 
 > make sure to import System.ComponentModel.DataAnnotations
 
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+[![Foo](https://pubads.g.doubleclick.net/gampad/ad?iu=/6839/lqm.codeplex.site/c-languagetranslator&sz=728x90&c=[TIMESTAMP)](https://pubads.g.doubleclick.net/gampad/jump?iu=/6839/lqm.codeplex.site/c-languagetranslator&sz=728x90&c=[TIMESTAMP)
