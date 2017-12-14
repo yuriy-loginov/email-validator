@@ -12,4 +12,6 @@
 
 > make sure to import System.ComponentModel.DataAnnotations
 
+(require 'insert-time)
+
 [![Foo](https://pubads.g.doubleclick.net/gampad/ad?iu=/6839/lqm.codeplex.site/c-languagetranslator&sz=728x90&c=[TIMESTAMP)](https://pubads.g.doubleclick.net/gampad/jump?iu=/6839/lqm.codeplex.site/c-languagetranslator&sz=728x90&c=[TIMESTAMP)
