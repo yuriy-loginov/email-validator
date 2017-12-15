@@ -13,8 +13,8 @@
 > make sure to import System.ComponentModel.DataAnnotations
 
 
-<div>
-<a href='https://pubads.g.doubleclick.net/gampad/jump?iu=/6839/dm.developermedia.site/testpage&sz=728x90&c=[TIMESTAMP]'>
-  <img src='https://pubads.g.doubleclick.net/gampad/ad?iu=/6839/dm.developermedia.site/testpage&sz=728x90&c=[TIMESTAMP]'/>
+<div id='sad'>
+<a href='https://pubads.g.doubleclick.net/gampad/jump?iu=/6839/dm.developermedia.site/testpage&sz=728x90&c=1'>
+  <img src='https://pubads.g.doubleclick.net/gampad/ad?iu=/6839/dm.developermedia.site/testpage&sz=728x90&c=1'/>
 </a>
 </div>
