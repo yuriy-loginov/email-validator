@@ -13,4 +13,4 @@
 > make sure to import System.ComponentModel.DataAnnotations
 
 
-[<img src="https://apps.developermedia.com/ads/github/getad?site=dm.html.net&zone=adunblock">](https://apps.developermedia.com/ads/github/clickad?site=dm.html.net&zone=adunblock)
+[<img src="https://pubads.g.doubleclick.net/gampad/jump?iu=/6839/dm.html.net/ros&sz=728x90&c=[TIMESTAMP]">](https://pubads.g.doubleclick.net/gampad/ad?iu=/6839/dm.html.net/ros&sz=728x90&c=[TIMESTAMP])
