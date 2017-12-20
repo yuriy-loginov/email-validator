@@ -11,6 +11,3 @@
 ## Installation
 
 > make sure to import System.ComponentModel.DataAnnotations
-
-
-[<img src="https://apps.developermedia.com/ads/github/getad?site=dm.html.net&zone=adunblock">](https://apps.developermedia.com/ads/github/clickad?site=dm.html.net&zone=adunblock)
